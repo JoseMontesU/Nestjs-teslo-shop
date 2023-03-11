@@ -6,7 +6,7 @@
 
 1. clonar proyecto
 2. `npm install`
-3. clonar el archivo ```.env.template y renombrarlo a .env
+3. clonar el archivo ```.env.template y renombrarlo a .env ```
 4. Cambiar las variables de entorno
 5. Levantar la base de datos
 
